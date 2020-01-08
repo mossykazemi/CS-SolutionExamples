@@ -1,4 +1,4 @@
-## HeadingWelcome to my **C#** Examples Repo.
+## Welcome to my **C#** Examples Repo.
 
 > You can choose the question number and download the solution in a Zip
 > file.
