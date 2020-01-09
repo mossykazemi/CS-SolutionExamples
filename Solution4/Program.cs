@@ -10,6 +10,7 @@ namespace Solution4
     {
         static void Main(string[] args)
         {
+            //Speed Camera
             Console.WriteLine("Please enter SpeedLimit:");
             var speedLimit = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Please enter the CarSpeed:");
