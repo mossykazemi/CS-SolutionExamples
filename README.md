@@ -36,4 +36,7 @@ Display the count on the console.
  Compute the factorial of the number and print it on the console. 
 For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
 
-8-
+8-Write a program that picks a random number between 1 and 10. 
+Give the user 4 chances to guess the number. If the user guesses the number, display “You won";
+ otherwise, display “You lost". (To make sure the program is behaving correctly, 
+you can display the secret number on the console first.)
