@@ -4,6 +4,8 @@ namespace Solution7
 {
     class Program
     {
+        // Factorial of number Project 
+        // it has many ways to code for factorial 
         static void Main(string[] args)
         {
             int i, number, factorial = 1;

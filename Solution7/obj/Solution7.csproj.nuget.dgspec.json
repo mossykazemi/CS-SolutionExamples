@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkaze\\source\\repos\\Solution7\\Solution7.csproj": {}
+    "C:\\Users\\mkaze\\Documents\\GitHub\\CS-SolutionExamples\\Solution7\\Solution7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkaze\\source\\repos\\Solution7\\Solution7.csproj": {
+    "C:\\Users\\mkaze\\Documents\\GitHub\\CS-SolutionExamples\\Solution7\\Solution7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkaze\\source\\repos\\Solution7\\Solution7.csproj",
+        "projectUniqueName": "C:\\Users\\mkaze\\Documents\\GitHub\\CS-SolutionExamples\\Solution7\\Solution7.csproj",
         "projectName": "Solution7",
-        "projectPath": "C:\\Users\\mkaze\\source\\repos\\Solution7\\Solution7.csproj",
+        "projectPath": "C:\\Users\\mkaze\\Documents\\GitHub\\CS-SolutionExamples\\Solution7\\Solution7.csproj",
         "packagesPath": "C:\\Users\\mkaze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkaze\\source\\repos\\Solution7\\obj\\",
+        "outputPath": "C:\\Users\\mkaze\\Documents\\GitHub\\CS-SolutionExamples\\Solution7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
