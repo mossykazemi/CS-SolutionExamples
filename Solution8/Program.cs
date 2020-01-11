@@ -14,14 +14,14 @@ namespace Solution8
         {
             var random = new Random();
             int randNum = random.Next(1, 10);
-            Console.WriteLine(randNum);  
-            for (int i = 1; i < 5; i++)
-            {
+            Console.WriteLine(randNum);    // show the Random number on top of the console
+            for (int i = 1; i < 5; i++)   // loop for >5 times to check the input number
+            {   
                 Console.WriteLine("Guess the random number :");
                 var guess = Convert.ToInt32(Console.ReadLine());
                 if (guess == randNum)
                 {
-                    Console.WriteLine("You win!");
+                    Console.WriteLine("You win!");  
                     break;
                 }
                 else if (i == 4)
