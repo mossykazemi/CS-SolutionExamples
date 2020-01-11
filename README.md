@@ -25,3 +25,9 @@ If the user enters a value less than the speed limit, program should display Ok 
 If the value is above the speed limit, the program should calculate the number of demerit points.
 For every 5km/hr above the speed limit, 1 demerit points should be incurred and displayed on the console. 
 If the number of demerit points is above 12, the program should display License Suspended.
+
+5-Write a program to count how many numbers between 1 and 100 are divisible by 3 with no remainder. 
+Display the count on the console.
+
+6-Write a program and continuously ask the user to enter a number or "ok" to exit.
+ Calculate the sum of all the previously entered numbers and display it on the console.
