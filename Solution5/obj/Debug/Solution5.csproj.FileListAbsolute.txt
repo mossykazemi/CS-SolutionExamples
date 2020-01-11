@@ -1,0 +1,6 @@
+C:\Users\mkaze\source\repos\Solution5\bin\Debug\Solution5.exe.config
+C:\Users\mkaze\source\repos\Solution5\bin\Debug\Solution5.exe
+C:\Users\mkaze\source\repos\Solution5\bin\Debug\Solution5.pdb
+C:\Users\mkaze\source\repos\Solution5\obj\Debug\Solution5.csprojAssemblyReference.cache
+C:\Users\mkaze\source\repos\Solution5\obj\Debug\Solution5.exe
+C:\Users\mkaze\source\repos\Solution5\obj\Debug\Solution5.pdb
