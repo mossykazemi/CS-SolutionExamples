@@ -10,6 +10,7 @@ namespace Solution9
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter some numbers Seperated by comma : ");
             List<string> numbers = new List<string>();
             var input = "";
             var exit = String.IsNullOrEmpty(input);
