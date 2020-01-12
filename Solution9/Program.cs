@@ -22,9 +22,9 @@ namespace Solution9
             if (exit)
             {
 
-                List<int> numsum = input.Split(',').Select(int.Parse).ToList();
+                List<int> numlist = input.Split(',').Select(int.Parse).ToList();
 
-                Console.WriteLine("minimum number is : " + numsum.Min());
+                Console.WriteLine("minimum number is : " + numlist.Min());
             }
         }
     }
