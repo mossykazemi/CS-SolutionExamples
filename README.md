@@ -44,3 +44,8 @@ you can display the secret number on the console first.)
 9-Write a program and ask the user to enter a series of numbers separated by comma. 
 Find the minimum of the numbers and display it on the console. For example, 
 if the user enters “5, 3, 8, 1, 4", the program should display 1.
+
+10-When you post a message on Facebook, depending on the number of people who like your post,Facebook displays different information.
+Write a program and continuously ask the user to enter different names, 
+until the user presses Enter (without supplying a name). 
+Depending on the number of names provided, display a message based on the above pattern.
