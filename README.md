@@ -58,4 +58,7 @@ Display the reversed name on the console.
  If a number has been previously entered, display an error message and ask the user to re-try. 
 Once the user successfully enters 5 unique numbers, sort them and display the result on the console.
 
-13-
+13-Write a program and ask the user to continuously enter a number or type "Quit" to exit.
+ The list of numbers may include duplicates. Display the unique numbers that the user has entered.
+
+ 14-
