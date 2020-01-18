@@ -10,6 +10,7 @@ namespace Solution12
     {
         public static bool ContainsDuplicates(int[] a)
         {
+            // Finding duplicates with this method
             for (int i = 0; i < a.Length; i++)
             {
                 for (int j = i + 1; j < a.Length; j++)
