@@ -25,6 +25,7 @@ namespace Solution13
         }
         public static List<int> GetUniqueNumbers(List<int> numbers)
         {
+            //Finding unique numbers with this method
             var uniques = new List<int>();
             foreach (var number in numbers)
             {
