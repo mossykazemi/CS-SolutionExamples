@@ -28,6 +28,8 @@ namespace Solution12
             numbers[2] = Convert.ToInt32(Console.ReadLine());
             numbers[3] = Convert.ToInt32(Console.ReadLine());
             numbers[4] = Convert.ToInt32(Console.ReadLine());
+            // We also could use a for loop here 
+
 
             ContainsDuplicates(numbers);
             if (ContainsDuplicates(numbers) == true)
