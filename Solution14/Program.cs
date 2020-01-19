@@ -10,10 +10,11 @@ namespace Solution14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter some Numbers (seperate them by Comma) : ");
+            Console.WriteLine("Enter some Numbers (seperate them by Comma): ");
             List<string> entered = new List<string>();
             var input = "";
             var exit = String.IsNullOrEmpty(input);
+            // start here 
         start:
             do
             {
