@@ -23,7 +23,7 @@ namespace Solution15
             }
             var result = Cons ? "Consecutive" : "Not Consecutive";
             Console.WriteLine(result);
-
+            Console.ReadKey();
 
             //Another way to do it :
 
