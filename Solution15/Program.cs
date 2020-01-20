@@ -47,6 +47,7 @@ namespace Solution15
             //}
             //var result = (isConsecutive) ? "Consecutive" : "Non consecutive";
             //Console.WriteLine(result);
+            //Console.ReadKey();
         }
     }
 }
