@@ -25,7 +25,7 @@ namespace Solution15
             Console.WriteLine(result);
 
 
-            
+            //Another way to do it :
 
             //var numbers = new List<int>();
             //Console.WriteLine("Type a hypen separated numbers list");
