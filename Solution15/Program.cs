@@ -25,6 +25,7 @@ namespace Solution15
             Console.WriteLine(result);
             Console.ReadKey();
 
+
             //Another way to do it :
 
             //var numbers = new List<int>();
