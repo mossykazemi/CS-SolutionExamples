@@ -69,10 +69,6 @@ otherwise, display the 3 smallest numbers in the list.
 Work out if the numbers are consecutive. For example, if the input is "5-6-7-8-9" or "20-19-18-17-16",
 display a message: "Consecutive"; otherwise, display "Not Consecutive".
 
-16-Write a program and ask the user to enter a few numbers separated by a hyphen.
-Work out if the numbers are consecutive. For example, if the input is "5-6-7-8-9" or "20-19-18-17-16",
-display a message: "Consecutive"; otherwise, display "Not Consecutive".
-
 17-Write a program and ask the user to enter a few numbers separated by a hyphen. 
 If the user simply presses Enter, without supplying an input, exit immediately; 
 otherwise, check to see if there are duplicates. If so, display "Duplicate" on the console.
