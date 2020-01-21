@@ -18,6 +18,7 @@ namespace Solution17
             var hour = Convert.ToInt32(time[0]);
             //minute
             var minute = Convert.ToInt32(time[1]);
+            // check the time is valid or not
             var IsValid = true;
             if (String.IsNullOrWhiteSpace(input))
                 IsValid = false;
