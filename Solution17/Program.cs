@@ -14,7 +14,9 @@ namespace Solution17
             var input = Console.ReadLine();
             //split hour and minute with : 
             var time = input.Split(':');
+            //hour
             var hour = Convert.ToInt32(time[0]);
+            //minute
             var minute = Convert.ToInt32(time[1]);
             var IsValid = true;
             if (String.IsNullOrWhiteSpace(input))
