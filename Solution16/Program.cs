@@ -11,9 +11,9 @@ namespace Solution16
         static void Main(string[] args)
         {
             var numList = new List<int>();
-            Console.WriteLine("Enter some numbers Sperated by hyphen :");
+            Console.WriteLine("Enter some numbers Sperated by hyphen (-) :");
             var input = Console.ReadLine();
-
+            // check if the input is empty or null
             if (String.IsNullOrEmpty(input))
                 Console.WriteLine("bye");
             else
