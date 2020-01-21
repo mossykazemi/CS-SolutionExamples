@@ -22,7 +22,7 @@ namespace Solution16
                 foreach (var i in numbers)
                     numList.Add(Convert.ToInt32(i));
                 numList.Sort();
-                var isDuplicate = true;
+                var isDuplicate = true; // bool for the result
                 if (numList.Distinct().Count() != numList.Count)
                     isDuplicate = true;
                 else
