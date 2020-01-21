@@ -27,6 +27,7 @@ namespace Solution17
             else
                 IsValid = true;
 
+            //show the result
             var result = (IsValid) ? "Valid" : "Not Valid";
             Console.WriteLine(result);
         }
