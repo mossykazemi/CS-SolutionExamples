@@ -1,0 +1,6 @@
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\bin\Debug\Solution17.exe.config
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\bin\Debug\Solution17.exe
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\bin\Debug\Solution17.pdb
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\obj\Debug\Solution16.csprojAssemblyReference.cache
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\obj\Debug\Solution17.exe
+C:\Users\mkaze\Documents\GitHub\CS-SolutionExamples\Solution16\obj\Debug\Solution17.pdb

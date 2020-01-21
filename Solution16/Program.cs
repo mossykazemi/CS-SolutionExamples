@@ -29,6 +29,7 @@ namespace Solution16
                     isDuplicate = false;
                 Console.WriteLine(isDuplicate ? "Duplicate" : "Not Duplicate");
             }
+            Console.ReadKey();
         }
     }
 }
