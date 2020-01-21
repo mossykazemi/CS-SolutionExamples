@@ -12,6 +12,7 @@ namespace Solution17
         {
             Console.WriteLine("Enter the time value in 24-hour format :");
             var input = Console.ReadLine();
+            //split hour and minute with : 
             var time = input.Split(':');
             var hour = Convert.ToInt32(time[0]);
             var minute = Convert.ToInt32(time[1]);
