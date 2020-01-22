@@ -14,7 +14,7 @@ namespace Solution18
             var input = Console.ReadLine();
             //make the input split by space
             var words = input.ToLower().Split(' ');
-            var result = "";
+            var result = ""; //result is our sentence
             for (var i = 0; i < words.Length; i++)
             {
                 result += words[i][0].ToString().ToUpper() + words[i].Substring(1) + " ";
