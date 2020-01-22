@@ -20,6 +20,7 @@ namespace Solution18
                 result += words[i][0].ToString().ToUpper() + words[i].Substring(1) + " ";
             }
             Console.WriteLine(result);
+            Console.ReadLine();
         }
     }
 }
