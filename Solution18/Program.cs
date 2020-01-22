@@ -12,6 +12,7 @@ namespace Solution18
         {
             Console.WriteLine("type your sentence :");
             var input = Console.ReadLine();
+            //make the input split by space
             var words = input.ToLower().Split(' ');
             var result = "";
             for (var i = 0; i < words.Length; i++)
