@@ -14,7 +14,7 @@ namespace Solution19
             Console.WriteLine("Enter an English word :");
             var input = Console.ReadLine();
 
-            //vowels are 'a', 'e', 'o', 'u', 'i'
+            // Vowels are 'a', 'e', 'o', 'u', 'i'
             var vowelList = new List<char> { 'a', 'e', 'o', 'u', 'i' };
             var vowels = 0;
 
@@ -24,7 +24,7 @@ namespace Solution19
                     vowels++;// vowels counter 
             }
 
-            //show on the console
+            // Show on the console
             Console.WriteLine("There are {0} Vowels in {1}", vowels, input);
             Console.ReadKey();
         }
