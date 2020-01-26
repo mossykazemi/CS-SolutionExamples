@@ -23,6 +23,7 @@ namespace Solution19
                     vowels++;// vowels counter 
             }
 
+            //show on the console
             Console.WriteLine("There are {0} Vowels in {1}", vowels, input);
             Console.ReadKey();
         }
