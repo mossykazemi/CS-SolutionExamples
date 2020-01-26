@@ -10,6 +10,7 @@ namespace Solution19
     {
         static void Main(string[] args)
         {
+            // Get the input
             Console.WriteLine("Enter an English word :");
             var input = Console.ReadLine();
 
