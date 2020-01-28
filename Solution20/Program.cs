@@ -15,7 +15,9 @@ namespace Solution20
             var path = @"C:\Users\yourname\Desktop\Secret.txt";
             //read all the text in secret.txt file
             var text = File.ReadAllText(path);
+            // you can make a array of splits and put it in text.split 
             var word = text.Split(' ');
+            //counting the words is txt with a simple way
             Console.WriteLine(word.Length);
         }
     }
