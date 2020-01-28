@@ -11,7 +11,8 @@ namespace Solution20
     {
         static void Main(string[] args)
         {
-            var path = @"C:\Users\mkaze\Desktop\Secret.txt";
+            //Create a text file named secret.txt on desktop and add some words in it
+            var path = @"C:\Users\yourname\Desktop\Secret.txt";
             var text = File.ReadAllText(path);
             var word = text.Split(' ');
             Console.WriteLine(word.Length);
