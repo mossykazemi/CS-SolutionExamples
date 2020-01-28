@@ -13,6 +13,7 @@ namespace Solution20
         {
             //Create a text file named secret.txt on desktop and add some words in it
             var path = @"C:\Users\yourname\Desktop\Secret.txt";
+            //read all the text in secret.txt file
             var text = File.ReadAllText(path);
             var word = text.Split(' ');
             Console.WriteLine(word.Length);
