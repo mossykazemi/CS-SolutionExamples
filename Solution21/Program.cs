@@ -18,7 +18,7 @@ namespace Solution21
             var text = File.ReadAllText(path).ToLower();
             //Using regex
             var match = Regex.Match(text, "\\w+");
-
+            //Using Linq and Dictionary
             Dictionary<string, int> freq = new Dictionary<string, int>();
             while (match.Success)
             {
