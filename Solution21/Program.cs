@@ -34,11 +34,12 @@ namespace Solution21
 
                 match = match.NextMatch();
             }
-
+            //Showing the result 
             Console.WriteLine("Rank  Word  Frequency");
             Console.WriteLine("====  ====  =========");
             int rank = 1;
-            foreach (var elem in freq.OrderByDescending(a => a.Value).Take(3))
+            // change the .Take() value to show more words
+            foreach (var elem in freq.OrderByDescending(a => a.Value).Take(3)) 
             {
                 Console.WriteLine("{0,2}    {1,-4}    {2,5}", rank++, elem.Key, elem.Value);
             }
