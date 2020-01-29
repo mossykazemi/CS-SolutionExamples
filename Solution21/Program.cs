@@ -12,7 +12,9 @@ namespace Solution21
     {
         static void Main(string[] args)
         {
-            var path = @"C:\Users\mkaze\Desktop\Secret.txt";
+            //Create secret.txt file on your desktop and put some words in it
+            var path = @"C:\Users\yourName\Desktop\Secret.txt";
+            // 
             var text = File.ReadAllText(path).ToLower();
             var match = Regex.Match(text, "\\w+");
             Dictionary<string, int> freq = new Dictionary<string, int>();
