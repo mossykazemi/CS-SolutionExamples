@@ -1,6 +1,6 @@
 ## Welcome to my **C#** Examples Repo.
 
-if you have any questions contact me on Telegram @Mossy_yankee or Instagram mossy.yankee.
+if you have any questions contact me on Telegram @Mossy_yankee or Instagram mossy.yankee
 > You can choose the question number and download the solution in a Zip
 > file.
 Note:
